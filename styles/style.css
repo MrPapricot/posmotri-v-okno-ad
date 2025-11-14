@@ -175,7 +175,7 @@ ol {
 .content__video-card-description {
   height: auto;
   line-height: 16.2px;
-  -webkit-line-clamp: 3;
+  line-clamp: 3;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
